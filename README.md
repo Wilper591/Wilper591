@@ -10,8 +10,8 @@
           con mi desarrollo profesional y continúo avanzando en mi formación a
           través de un bootcamp especializado en JavaScript que me permitirá
           convertirme en un Desarrollador Full Stack integral. Mis habilidades
-          actuales incluyen HTML5, CSS3, SCSS, JavaScript, AJAX, PHP, MySQL,
-          PostgreSQL, Node.js, npm y Express.js, con un enfoque particular en
+          actuales incluyen HTML5, CSS3, SCSS, JavaScript, jQuery, AJAX, PHP, MySQL,
+          PostgreSQL, Node.js, NPM y Express.js, con un enfoque particular en
           mejorar mis habilidades en el BackEnd para construir aplicaciones
           robustas y escalables. ¡Estoy emocionado por las oportunidades que el
           futuro tiene reservadas y estoy comprometido a seguir aprendiendo y
