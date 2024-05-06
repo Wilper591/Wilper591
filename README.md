@@ -1,5 +1,22 @@
 # 💫 About Me:
-Desarrollador Junior en proceso de formación. Te enseño alguno de mis repositorios desarrollados durante mis estudios. Estoy encaminado a formarme como desarrollador FrontEnd. Voy enfocando en aprender JavaScript para poder utilizarlo de forma más optima en mis proyectos. Estoy en busca de trabajo como desarrollador frontEnd. De igual forma sigo en proceso de formación hasta finalizar el bootcamp en el que me encuentro actualmente para ser un Desarrollador Full Stack en JavaScript. Tengo conocimientos en HTML5, CSS3, SCSS, JavaScript, jQuery, NPM, AJAX, PHP, PostgreSQL y MySQL. Actualmente estudiando JavaScript en Bootcamp Talento Digital.
+¡Hola! Soy un Desarrollador Junior en formación con un enfoque
+          creciente en el desarrollo de BackEnd. Durante mis estudios, he
+          trabajado en varios repositorios que demuestran mi progreso y
+          habilidades en este campo. Mi objetivo principal es dominar JavaScript
+          para utilizarlo de manera óptima tanto en el FrontEnd como en el
+          BackEnd de mis proyectos futuros. Actualmente estoy buscando
+          oportunidades laborales como desarrollador BackEnd, donde pueda
+          aplicar y expandir mis conocimientos en esta área. Estoy comprometido
+          con mi desarrollo profesional y continúo avanzando en mi formación a
+          través de un bootcamp especializado en JavaScript que me permitirá
+          convertirme en un Desarrollador Full Stack integral. Mis habilidades
+          actuales incluyen HTML5, CSS3, SCSS, JavaScript, AJAX, PHP, MySQL,
+          PostgreSQL, Node.js, npm y Express.js, con un enfoque particular en
+          mejorar mis habilidades en el BackEnd para construir aplicaciones
+          robustas y escalables. ¡Estoy emocionado por las oportunidades que el
+          futuro tiene reservadas y estoy comprometido a seguir aprendiendo y
+          creciendo en el campo del desarrollo web, especialmente en el ámbito
+          del BackEnd!
 
 
 ## 🌐 Socials:
