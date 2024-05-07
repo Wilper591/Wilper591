@@ -1,13 +1,19 @@
 # 💫 About Me:
-¡Hola! Soy un Desarrollador Junior en formación con un enfoque creciente en el desarrollo de BackEnd. Durante mis estudios, he trabajado en varios repositorios que demuestran mi progreso y habilidades en este campo. 
+¡Hola! Me llamo Jorge, soy un Desarrollador Junior Fullstack JavaScript con enfoque creciente en el desarrollo de BackEnd. Durante mis estudios, he trabajado en varios repositorios que demuestran mi progreso y habilidades en este campo. 
 Mi objetivo principal es dominar JavaScript para utilizarlo de manera óptima tanto en el FrontEnd como en el BackEnd de mis proyectos futuros. Actualmente estoy buscando oportunidades laborales como desarrollador BackEnd o FrontEnd, donde pueda aplicar y expandir mis conocimientos en el área de la programación web. 
 
 Estoy comprometido con mi desarrollo profesional y continúo avanzando en mi formación a través de un bootcamp especializado en JavaScript que me permitirá convertirme en un Desarrollador Full Stack integral.
 
-Mis habilidades actuales incluyen HTML5, CSS3, SCSS, JavaScript, jQuery, AJAX, PHP, MySQL, PostgreSQL, Node.js, NPM y Express.js, con un enfoque particular en mejorar mis habilidades en el BackEnd para construir aplicaciones robustas y escalables. 
-
 ¡Estoy emocionado por las oportunidades que el futuro tiene reservadas y estoy comprometido a seguir aprendiendo y creciendo en el campo del desarrollo web, especialmente en el ámbito del BackEnd!
 
+#🎮Hobbies:
+-Gaming
+-Cocinar
+-Salir a correr con mi cachorra
+
+#🗺Idiomas:
+-Español(nativo)
+-Inglés(Intermedio - B1)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JorgeWilper) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorge_cerda591) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgecerda591) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Wilper591) 
