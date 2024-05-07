@@ -7,13 +7,13 @@ Estoy comprometido con mi desarrollo profesional y continúo avanzando en mi for
 ¡Estoy emocionado por las oportunidades que el futuro tiene reservadas y estoy comprometido a seguir aprendiendo y creciendo en el campo del desarrollo web, especialmente en el ámbito del BackEnd!
 
 # 🎮 Hobbies:
--Gaming.
--Cocinar.
--Salir a correr con mi cachorra.
+ - Gaming.
+ - Cocinar.
+ - Salir a correr con mi cachorra.
 
 # 🗺 Idiomas:
--Español(nativo).
--Inglés(Intermedio - B1).
+ - Español(nativo).
+ - Inglés(Intermedio - B1).
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JorgeWilper) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorge_cerda591) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgecerda591) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Wilper591) 
