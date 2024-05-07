@@ -15,6 +15,11 @@ Estoy comprometido con mi desarrollo profesional y continúo avanzando en mi for
  - Español(nativo).
  - Inglés(Intermedio - B1).
 
+# 🧠 Habilidades:
+ - Rápido aprendizaje.
+ - Gran capacidad de análisis.
+ - Facilidad para enseñar y/o explicar.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JorgeWilper) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorge_cerda591) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgecerda591) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Wilper591) 
 
