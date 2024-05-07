@@ -6,12 +6,12 @@ Estoy comprometido con mi desarrollo profesional y continúo avanzando en mi for
 
 ¡Estoy emocionado por las oportunidades que el futuro tiene reservadas y estoy comprometido a seguir aprendiendo y creciendo en el campo del desarrollo web, especialmente en el ámbito del BackEnd!
 
-#🎮Hobbies:
+# 🎮Hobbies:
 -Gaming
 -Cocinar
 -Salir a correr con mi cachorra
 
-#🗺Idiomas:
+# 🗺Idiomas:
 -Español(nativo)
 -Inglés(Intermedio - B1)
 
